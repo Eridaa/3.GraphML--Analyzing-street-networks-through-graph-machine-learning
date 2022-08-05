@@ -12,7 +12,11 @@ An experimental approach of analysing street networks through generating graph e
 
 Typology classifier - main notebook
 
+
+dataset_coastalcitiesItaly.xlsx - excel file with the chosen point locations
+
 stellargraphs_100simplified.p - dataset of 110 graphs
 
 city plots - images of the selected plots, used for visualisation in the notebook
+
 
