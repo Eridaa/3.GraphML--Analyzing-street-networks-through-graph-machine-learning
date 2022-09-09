@@ -6,3 +6,6 @@ Urban road networks are reflections of several environmental, social, and econom
 
 
 ![tsne](https://user-images.githubusercontent.com/97359144/189381742-d030c487-de0e-4840-b4c6-23cf7340f6df.png)
+
+
+The publicly available road network data from OpenStreetMap (https://www.openstreetmap.org/) via the OSMnx Python package (https://github.com/gboeing/osmnx) was used for retrieving the street network samples.
