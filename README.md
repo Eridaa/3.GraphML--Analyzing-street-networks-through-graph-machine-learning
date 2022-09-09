@@ -1,4 +1,8 @@
 # Analyzing-street-networks-through-graph-machine-learning
+## a study on how to encode them
 
 
 Urban road networks are reflections of several environmental, social, and economic  factors evolving with different speeds at different times. Sometimes these factors are  linearly related and traceable, in other cases street patterns remain formal  manifestations. This study represents an attempt of analyzing the geometric properties of street networks, through graph machine learning. Through unsupervised and supervised models, two ways of encoding them are tested: representing streets as graphs with the primal and dual approach. It concludes with some advantages and disadvantages of each encoding method and further opens a discussion on the prospects of using graph machine learning methods when analyzing or generating street patterns.
+
+
+![tsne](https://user-images.githubusercontent.com/97359144/189381742-d030c487-de0e-4840-b4c6-23cf7340f6df.png)
