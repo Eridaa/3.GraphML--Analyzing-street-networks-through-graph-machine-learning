@@ -9,3 +9,5 @@ Urban road networks are reflections of several environmental, social, and econom
 
 
 The publicly available road network data from OpenStreetMap (https://www.openstreetmap.org/) via the OSMnx Python package (https://github.com/gboeing/osmnx) was used for retrieving the street network samples.
+
+Analyzing street networks through graph machine learning is a project of IAAC, Institute for Advanced Architecture of Catalonia developed in the Master in Advanced Computation for Architecture & Design 2021/22 by student: Erida Bendo and faculty: David Andres Leon.
